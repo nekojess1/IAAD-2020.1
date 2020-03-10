@@ -1,0 +1,2 @@
+1)  Banco de dados é uma coleção de dados que pode ser tanto relacionais, quanto não relacionais .
+SGBD faz a manipulação das informações dos dados e o desenvolvimento de programas aplicativos, permitindo que os usuários criem e mantenham bancos de dados.
