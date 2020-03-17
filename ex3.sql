@@ -1,0 +1,1 @@
+﻿SELECT * FROM bebidas WHERE nome_bebida <> 'Blue Moon'

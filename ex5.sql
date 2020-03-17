@@ -1,0 +1,1 @@
+﻿SELECT * FROM bebidas WHERE qtd1 > qtd2

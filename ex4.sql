@@ -1,0 +1,1 @@
+﻿SELECT UPPER(nome_bebida) FROM bebidas
